@@ -6,7 +6,7 @@ Fullstack & CyberSecurity
 
 I'm a student in the field of cybersecurity, I'm studying everything that is possible for example, cloud, reverse engineering, cross-platform development, frontend, I participate in ctf, the main thing is not to stop in becoming the best version of myself
 
-*   🌍  I'm based in EARTH
+*   🌍  I'm based on EARTH
 *   🖥️  See my portfolio at [MyPortfolio](http://ares-portfolio.netlify.app/)
 *   🧠  I'm currently learning Jaspr , Backend
 *   💬  I'm secretly NetRunner from NightCity ... but don't tell to anyone
